@@ -1,4 +1,4 @@
 # Reddit-Clone
 Remake Reddit.com
-*disclaimer*: 
+# disclaimer: 
 this is for learning purpuses
